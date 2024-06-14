@@ -4,6 +4,9 @@
 
 ![iM Digital](/git_image.png)
 
+*이미지를 add file로 올리고 나서 위에 경로를 쳐야함
+
+
 ## 필요한 라이브러리
  1. numpy
  2. pandas
