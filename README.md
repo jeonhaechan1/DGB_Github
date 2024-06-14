@@ -24,7 +24,7 @@ pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install numpy
 
 ## 목차
 
-*깃허브 - OT / 파이썬 기초 및 문법 - Data 파일로 연결
+*깃허브 - OT / 파이썬 기초 및 문법 - Data 폴로 연결
 
 
 
