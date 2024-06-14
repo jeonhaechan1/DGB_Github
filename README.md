@@ -2,7 +2,7 @@
 
 > 데이터 분석 전문가 양성과정
 
-![iM Digital](/git_image.png)
+![iM Digital](git_image.png)
 
 ## 필요한 라이브러리
  1. numpy
