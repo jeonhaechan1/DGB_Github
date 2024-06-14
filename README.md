@@ -24,8 +24,19 @@ pip --trusted-host pypi.org --trusted-host files.pythonhosted.org install numpy
 
 ## 목차
 
-*깃허브 - OT / 파이썬 기초 및 문법 - Data 폴로 연결
+ * [깃허브](/day_ot)
+ * [파이썬 기초 및 문법](/data)
+ * [데이터 분석 기초]
+ * [시각화]()
+ * [가설검정]()
+ * [머신러닝 및 특성공학]()
 
+*깃허브를 ot파일로 연결/ 파이썬 기초 및 문법 - Data 폴로 연결
+
+## 문의사항
+
+궁금한 사항이 있으면 메일 남겨주세요.
+im@digitalbanker.com
 
 
 
